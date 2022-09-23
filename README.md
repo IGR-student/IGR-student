@@ -1,7 +1,7 @@
 - 👋 Hi, I’m B Immanuel George Regland
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Projects based on Python language
+- 👀 I’m interested in ...Game Development
+- 🌱 I’m currently learning ...C# and Unity3D
+- 💞️ I’m looking to collaborate on ...Games based on C#
 - 📫 How to reach me ...sit20it018@sairamtap.edu.in
 
 <!---
